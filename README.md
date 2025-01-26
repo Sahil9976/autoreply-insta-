@@ -63,16 +63,3 @@ Hello! It's cool you are interested in contributing to this project. You are mor
 5. **Coding Standards Compliance**: All changes must comply with the project's coding standards. You may require pull requests to comply with specific coding style guidelines.
 
 
- 
-## ⚠️ Disclaimer
-This tool is for educational purposes only. The use of this tool is your responsibility. Please respect the privacy of others and always follow terms of service.
-
-
-## ⭐️ Show your support
-
-Leave a star if that project helped you!
-
-## 📝 License
-
-Copyright © 2024 [Skuxblan](https://github.com/Skuxblan).
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
